@@ -32,7 +32,8 @@ Aplikasi ini menggunakan konsep **modular**, di mana setiap halaman (screen) dip
 
 <img width="815" height="557" alt="image" src="https://github.com/user-attachments/assets/efd05b45-f97d-4556-94fa-176d86a004de" />
 
-<img width="760" height="1350" alt="image" src="https://github.com/user-attachments/assets/7d23f5f7-692c-4469-8dd8-c52825de7e85" />
+<img width="783" height="430" alt="image" src="https://github.com/user-attachments/assets/ad79d149-86d6-4427-acec-fffdc82c19e5" />
+
 
 
 
